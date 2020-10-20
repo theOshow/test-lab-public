@@ -1,5 +1,3 @@
-# test-lab-public
-
 Euroland exam
 
 URI specs

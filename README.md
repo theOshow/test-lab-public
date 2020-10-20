@@ -1,4 +1,5 @@
 # test-lab-public
+\*
 Euroland exam
 
 URI specs
@@ -46,3 +47,4 @@ post body:
     "col_2": "10th"  
 }
 ]
+\*

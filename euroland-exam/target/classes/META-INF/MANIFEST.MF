@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: oj
+Build-Jdk: 11.0.8
+Implementation-Title: Euroland Exam
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.oj.euroland
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/euroland-exam/
+Created-By: Maven Integration for Eclipse
+

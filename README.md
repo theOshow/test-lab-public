@@ -4,7 +4,7 @@ Euroland exam
 URI specs
 
 1) Get Number of Rows (count) and Columns (count)
-/records/totals
+//records/totals
 
 2) Get all records from List<Table> array, returning converted object into JSON format matching table header names 
 /records/
